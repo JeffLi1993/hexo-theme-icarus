@@ -7,11 +7,11 @@ module.exports = {
         [type]: 'object',
         [doc]: 'Navigation bar menu links',
         [defaultValue]: {
-            首页: '/',
-            归档: '/archives',
-            分类: '/categories',
-            标签: '/tags',
-            关于: '/about'
+            Home: '/',
+            Archives: '/archives',
+            Categories: '/categories',
+            Tags: '/tags',
+            About: '/about'
         },
         '*': {
             [type]: 'string',
