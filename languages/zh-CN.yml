@@ -43,3 +43,5 @@ insight:
     categories: '分类'
     tags: '标签'
     untitled: '(无标题)'
+menu:
+    Home : '首页'
