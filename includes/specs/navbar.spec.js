@@ -7,7 +7,7 @@ module.exports = {
         [type]: 'object',
         [doc]: 'Navigation bar menu links',
         [defaultValue]: {
-            Home: '/',
+            首页: '/',
             Archives: '/archives',
             Categories: '/categories',
             Tags: '/tags',
